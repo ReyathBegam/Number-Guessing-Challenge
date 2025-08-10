@@ -30,7 +30,9 @@ It congratulates you and shows your total tries.
 
 📂 Project Structure
 Number_Guess.py
+
 README.md
+
 🚀 How to Run
 Install Python 3.
 
@@ -39,10 +41,9 @@ Save the file as Number_Guess.py.
 Open a terminal in the file’s directory.
 
 Run the script:
-
 python Number_Guess.py
-📷 Example Gameplay
 
+📷 Example Gameplay
 Welcome to number guessing challenge!!
 I am thinking of a number from 1 to 100
 Enter your guess: 50
