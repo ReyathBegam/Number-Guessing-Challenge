@@ -14,5 +14,5 @@ while guess!=number_to_guess:
             print("Too high..,Try again")
         else:
             print(f"Congratulation!!!!, You guessed the number on {attempt} tr{'y'if attempt==1 else 'ies'}.")
-    except valueError:
+    except ValueError:
         print("Invalid input. Please enter a valid number")
